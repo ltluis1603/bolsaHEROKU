@@ -1,0 +1,1 @@
+web: gunicorn bolsa.wsgi --log-file -
